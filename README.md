@@ -45,7 +45,7 @@ GET | <a href="http://localhost:5000/api/repos/2021-08-31">/api/repos/{date}</a>
  * Clone the repo :
  
 ```shell
- git clone https://github.com/Selharem/Express-Github-API.git
+ git clone https://github.com/bella77-69/express-github-api.git
 ```
  * Install the dependencies : 
  
